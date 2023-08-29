@@ -1,5 +1,5 @@
 # Behrendt Lab Website
-Adapted from Allen Lab *http://www.allanlab.org/aboutwebsite.html*
+Adapted from Allen Lab *www.allanlab.org*
 
 Website for Behrendt Lab for Nucleic Acid sensing at Immunosensation Cluster of Excellence within Bonn University and Bonn University Hospital.
 
